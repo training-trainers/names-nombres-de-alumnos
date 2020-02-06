@@ -6,26 +6,26 @@ Para el primer ejercicio por favor recuerden su número y coloquen su nombre a u
 *No modificar README*
 
 
--01
--02
--03
--04
--05
--06
--07
--08
--09
--10
--11
--12
--13
--14
--15
--16
--17 Diego Cruz Villanueva
--18
--19
--20
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17. Diego Cruz Villanueva
+18.
+19.
+20.
 
 
 Esto lo deben hacer en el code principal que voy a crear llamado NAMES, el resultado final debe ser similar 
